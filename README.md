@@ -18,7 +18,7 @@ Example
 
 ## Run Application
 
-Open console from project folder and enter command to start:
+Open console from project folder and enter this command to start
 ```
 npm run dev
 ```
